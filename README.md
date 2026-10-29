@@ -1,4 +1,5 @@
 # Hi, I'm Julian Rodriguez 👋
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/7701d611-0c11-4217-98f7-5ab950f2ab88" />
 
 ### 💻 Software Engineering Student | Aspiring Backend Developer
 
