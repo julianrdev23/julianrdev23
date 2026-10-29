@@ -1,37 +1,44 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+# Hi, I'm Julian Rodriguez 👋
 
-###
+### 💻 Software Engineering Student | Aspiring Backend Developer
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-</div>
+I'm a Software Engineering student at Politécnico Grancolombiano, passionate about software development, problem-solving, and technology.
 
-###
+I'm currently strengthening my programming skills through hands-on practice and personal projects. My goal is to build practical solutions, grow as a developer, and start my professional career in tech.
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="(https://www.linkedin.com/in/juli%C3%A1n-esteban-rodriguez-guerrero-1a3aba311/)"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## 🚀 Currently Learning
 
-###
+- 🐍 Python and programming fundamentals
+- 🗄️ SQL and database management
+- ⚙️ Backend development and REST APIs
+- 🔧 Git and GitHub
+- 🐳 DevOps fundamentals and automation
 
-<p data-importer="text" align="left">Hello World!!</p>
+## 🛠️ Technologies & Tools
 
-###
+- **Programming Languages:** Python
+- **Databases:** SQL (currently learning)
+- **Tools:** Git, GitHub, Visual Studio Code
+- **Interests:** Backend Development, APIs, DevOps, and Automation
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📂 Projects
 
-###
+I'm building my portfolio through hands-on projects to apply my knowledge and develop practical programming skills.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+- **Python Practice:** Programming exercises focused on logic and Python fundamentals.
+- **Task Manager CLI:** A command-line application for managing tasks using Python.
+- **Backend API:** A learning project focused on building REST APIs and working with databases.
 
-###
+*Project repositories will be added as I complete and publish them.*
+
+## 🎯 Career Goals
+
+I'm looking for an opportunity as a Junior Developer, Software Engineering Intern, or Trainee where I can learn from experienced developers, contribute to real projects, and continue growing professionally.
+
+## 📫 Connect With Me
+- **LinkedIn:** (https://www.linkedin.com/in/juli%C3%A1n-esteban-rodriguez-guerrero-1a3aba311/)
+- **Email:** julianrdev14@gmail.com
+
+---
+
+*Learning, building, and improving every day.* 🚀
